@@ -1,3 +1,3 @@
 <?php 
 
-$conn= new mysqli('localhost','efxhost_colas','LmAmpESZaxcN','efxhost_colas')or die("Could not connect to mysql".mysqli_error($con));
+$conn= new mysqli('146.190.169.175','efxhost_cola','bRbVs535ieUS','efxhost_cola')or die("Could not connect to mysql".mysqli_error($con));
